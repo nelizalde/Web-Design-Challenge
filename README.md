@@ -1,3 +1,7 @@
+
+Here is the link to view my work for this Web Design Challenge!
+https://nelizalde.github.io/Web-Design-Challenge/
+
 # Web Design Homework - Web Visualization Dashboard (Latitude)
 
 ## Background
